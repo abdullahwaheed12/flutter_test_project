@@ -72,7 +72,6 @@ lib/
 
 ## App Screenshots
 
-Screenshots are located in the [`screenshots/`](screenshots/) folder.
 
 <p align="center">
   <img src="screenshots/mood.png" alt="Mood Screen" width="260"/>
