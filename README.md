@@ -70,11 +70,7 @@ lib/
           profile_header.dart        # Profile header widget
 ```
 
-
-
-
-
-## 3. App Screenshots
+## App Screenshots
 
 Screenshots are located in the [`screenshots/`](screenshots/) folder.
 
@@ -85,7 +81,7 @@ Screenshots are located in the [`screenshots/`](screenshots/) folder.
 
 ---
 
-## 4. App Video
+## App Video
 
 You can watch a short demo of the app here:
 
@@ -94,7 +90,7 @@ You can watch a short demo of the app here:
 
 ---
 
-## 5. App APK
+## App APK
 
 Download the release APK for Android:
 
@@ -102,12 +98,6 @@ Download the release APK for Android:
 
 ---
 
-## 6. How to Run
+## How to Run
 
-```bash
-flutter pub get
-flutter run
-```
-
-Requires Flutter SDK `^3.9.2` as configured in `pubspec.yaml`.
-```
+Requires Flutter SDK `^3.9.2` 
