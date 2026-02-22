@@ -270,7 +270,7 @@ Screenshots are located in the [`screenshots/`](screenshots/) folder.
 
 You can watch a short demo of the app here:
 
-[App Demo Video](https://drive.google.com/file/d/1EgZnIk1N9N3xYMKoTat06qu3iTmr4GEP/view?usp=drive_link)
+[App Demo Video](https://drive.google.com/file/d/1EgZnIk1N9N3xYMKoTat06qu3iTmr4GEP/view?usp=sharing)
 <!-- Or use a GitHub-hosted video if preferred -->
 
 ---
