@@ -83,7 +83,7 @@ lib/
 ```
 
 **4. App Video**
-
+ ![Watch App Demo](media/app-demo.mp4)
 1. Record a short screen recording (e.g. via Android Studio emulator recorder or any screen recorder).
 2. Save it as `app-demo.mp4` (or similar).
 3. You have two common options:
