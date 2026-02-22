@@ -73,23 +73,7 @@ lib/
 
 **3. Screenshots**
 
-Steps:
 
-1. Take clear screenshots from a device/emulator (Mood, Plan, Nutrition, Profile, etc.).
-2. Create a folder in your repo, e.g.:
-
-   ```text
-   screenshots/
-     mood.png
-     plan.png
-     nutrition.png
-     profile.png
-   ```
-
-3. Commit and push that folder to GitHub.
-4. In the README you can link and display them:
-
-```markdown
 ## App Screenshots
 
 ![Mood Screen](screenshots/mood.png)
