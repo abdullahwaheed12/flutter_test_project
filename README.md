@@ -82,30 +82,6 @@ lib/
 ![Profile Screen](screenshots/profile.png)
 ```
 
-If you want just links instead of inline images:
-
-```markdown
-- [Mood Screen](screenshots/mood.png)
-- [Plan Screen](screenshots/plan.png)
-- [Nutrition Screen](screenshots/nutrition.png)
-- [Profile Screen](screenshots/profile.png)
-```
-
-The example URL you were given:
-
-```text
-https://github.com/username/project-name/tree/main/screenshots
-```
-
-is just a placeholder – on your repo it will be:
-
-```text
-https://github.com/<your-username>/<your-repo>/tree/main/screenshots
-```
-
-
----
-
 **4. App Video**
 
 1. Record a short screen recording (e.g. via Android Studio emulator recorder or any screen recorder).
