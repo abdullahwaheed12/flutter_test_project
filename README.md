@@ -103,4 +103,4 @@ Download the release APK for Android:
 
 ## How to Run
 
-Requires Flutter SDK `^3.9.2` 
+Requires Flutter SDK `^3.35.4` 
