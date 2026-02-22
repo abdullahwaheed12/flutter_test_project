@@ -74,10 +74,14 @@ lib/
 
 Screenshots are located in the [`screenshots/`](screenshots/) folder.
 
-![Mood Screen](screenshots/mood.png)
-![Plan Screen](screenshots/plan.png)
-![Nutrition Screen](screenshots/nutrition.png)
-![Profile Screen](screenshots/profile.png)
+<p align="center">
+  <img src="screenshots/mood.png" alt="Mood Screen" width="260"/>
+  <img src="screenshots/plan.png" alt="Plan Screen" width="260"/>
+</p>
+<p align="center">
+  <img src="screenshots/nutrition.png" alt="Nutrition Screen" width="260"/>
+  <img src="screenshots/profile.png" alt="Profile Screen" width="260"/>
+</p>
 
 ---
 
