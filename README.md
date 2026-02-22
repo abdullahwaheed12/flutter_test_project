@@ -71,8 +71,6 @@ lib/
 ```
 
 
-**3. Screenshots**
-
 
 ## App Screenshots
 
@@ -157,103 +155,7 @@ Download the latest Android APK:
 [Download app-release.apk](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/app-release.apk)
 ```
 
----
 
-**6. Putting it all together – README template**
-
-Here’s a complete template you can copy into your `README.md` and then adjust usernames/links:
-
-```markdown
-# Flutter Interview Test – Fitness App
-
-A Flutter application demonstrating a multi-tab fitness experience with Mood, Plan, Nutrition and Profile sections.
-
----
-
-## 1. Dependencies Used & Why
-
-- flutter_screenutil: Responsive UI sizing for different screen sizes and densities.
-- flutter_svg: Rendering SVG icons for crisp vector graphics.
-- provider: Simple and robust state management for navigation and feature-specific state.
-- google_fonts: Applying custom fonts throughout the app.
-- flutter_test (dev): For writing and running unit/widget tests.
-- flutter_lints (dev): Standard lint rules to keep the code clean and consistent.
-
----
-
-## 2. Project Structure
-
-```text
-lib/
-  main.dart
-
-  core/
-    utils/
-      app_colors.dart
-
-  common/
-    widgets/
-      ui_image.dart
-
-  generated/
-    assets.dart
-
-  features/
-    bottom_nav/
-      presentations/
-        providers/
-          bottom_nav_provider.dart
-        screens/
-          bottom_nav.dart
-        widgets/
-          bottom_nav_bar_widget.dart
-
-    mood/
-      presentation/
-        providers/
-          mood_provider.dart
-        screens/
-          mood_screen.dart
-        widgets/
-          mood_ring.dart
-
-    nutrition/
-      presentation/
-        providers/
-          nutrition_provider.dart
-        screens/
-          nutrition_screen.dart
-        widgets/
-          nutrition_widgets.dart
-
-    plan/
-      presentation/
-        providers/
-          plan_provider.dart
-        screens/
-          plan_screen.dart
-        widgets/
-          plan_widgets.dart
-
-    profile/
-      presentation/
-        providers/
-          profile_provider.dart
-        screens/
-          profile_screen.dart
-        widgets/
-          profile_header.dart
-```
-
-**Explanation**
-
-- `core/`: App-wide utilities and configuration.
-- `common/`: Reusable UI components shared across features.
-- `generated/`: Auto-generated resources (e.g., strongly typed assets).
-- `features/`: Feature-based organization (mood, plan, nutrition, profile, bottom navigation),
-  each with its own provider, screen, and widgets for clean separation of concerns.
-
----
 
 ## 3. App Screenshots
 
@@ -279,7 +181,7 @@ You can watch a short demo of the app here:
 
 Download the release APK for Android:
 
-[Download app-release.apk](https://github.com/<your-username>/<your-repo>/releases/download/v1.0.0/app-release.apk)
+[Download app-release.apk](https://github.com/abdullahwaheed12/flutter_test_project/releases/download/v1.0.0/app-release.apk)
 
 ---
 
